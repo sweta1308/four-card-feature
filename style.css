@@ -84,14 +84,16 @@ h2 {
     body {
         margin: 10px;
         margin-top: 20px;
+        text-align: center;
     }
 
+
     .first-heading {
-        font-size: 24px;
+        font-size: 28px;
     }
 
     .second-heading {
-        font-size: 24px;
+        font-size: 28px;
     }
 
     .description {
