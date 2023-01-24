@@ -82,10 +82,27 @@ h2 {
 
 @media only screen and (max-width: 480px) {
     body {
-        margin: 30px;
+        margin: 10px;
+        margin-top: 20px;
+    }
+
+    .first-heading {
+        font-size: 24px;
+    }
+
+    .second-heading {
+        font-size: 24px;
+    }
+
+    .description {
+        width: 400px;
     }
 
     .sections {
         display: block;
+    }
+
+    .section1, .section2-1, .section2-2, .section3 {
+        margin: 20px 10px;
     }
 }
